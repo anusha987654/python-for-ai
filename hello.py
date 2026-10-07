@@ -1,0 +1,2 @@
+import sys
+print(sys.path)  # List of folders Python checks
